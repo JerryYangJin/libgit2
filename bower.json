@@ -1,0 +1,13 @@
+{
+  "name": "libgit2",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JerryYangJin/libgit2.git"
+  },
+  "bugs": {
+        "url": "http://github.com/JerryYangJin/libgit2/issues"
+  },
+  "author": "Jerry Jin",
+  "license": "MIT"
+}

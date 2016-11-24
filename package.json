@@ -1,0 +1,28 @@
+{
+  "name": "libgit2",
+  "description": "libgit2 ported with emscripten",
+  "version": "0.1.0",
+  "keywords": [
+    "libgit2",
+    "emscripten"
+  ],
+  "main": "lib/libgit2.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JerryYangJin/libgit2.git"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "engines": {
+    "node": ">= 0.12"
+  },
+  "scripts": {
+    "prepublish": "npm prune"
+  },
+  "bugs": {
+        "url": "http://github.com/JerryYangJin/libgit2/issues"
+  },
+  "author": "Jerry Jin",
+  "license": "MIT"
+}
