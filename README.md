@@ -7,3 +7,8 @@
 ```sh
 npm install libgit2
 ```
+or
+
+```sh
+bower install libgit2
+```
